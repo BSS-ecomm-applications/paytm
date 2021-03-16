@@ -10,4 +10,8 @@ hyderababd to warangal 15o kms
 
 towards national highway
 
+devops.txt is a devops file 
+
+devops is a methodology
+
 
